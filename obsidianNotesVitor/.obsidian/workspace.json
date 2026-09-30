@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projetos/nome_jogo.md",
+                "file": "progJogosAulas/github.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nome_jogo"
+              "title": "github"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bf54e731f26da74f",
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projetos/nome_jogo.md",
+                "file": "progJogosAulas/github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projetos/nome_jogo.md",
+                "file": "progJogosAulas/github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projetos/nome_jogo.md",
+                "file": "progJogosAulas/github.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,10 +189,10 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "2b47cfca01ed9acb",
+  "active": "9cda1c25707758ce",
   "lastOpenFiles": [
-    "progJogosAulas/github.md",
     "projetos/nome_jogo.md",
+    "progJogosAulas/github.md",
     "projetos",
     "Bem-vindo.md",
     "progJogosAulas"

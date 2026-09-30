@@ -14,15 +14,15 @@ cd nomedorepositorio
 ### Configuração da identidade
 
 ```shell
-git config --global user.name "nomedeusuariodoaluno"
-git config --global user.email "nomedeusuariodoaluno@email.com"
+git config --global user.name ""
+git config --global user.email ""
 ```
 
 Se outra pessoa usa Git no mesmo computador, use `--local` dentro desta pasta:
 
 ```shell
-git config --local user.name "nomedeusuariodoaluno"
-git config --local user.email "nomedeusuariodoaluno@email.com"
+git config --local user.name ""
+git config --local user.email ""
 ```
 
 ### Publicar a alteração do README
@@ -32,7 +32,7 @@ Depois de editar ou criar o `README.md` no VS Code, execute:
 ```shell
 git pull
 git add .
-git commit -m "Melhora o README do projeto"
+git commit -m "UPDATE PROJECT"
 git push
 ```
 
