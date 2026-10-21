@@ -446,4 +446,4 @@ FodyWeavers.xsd
 *.msp
 
 # Official VS Code C# Dev Kit Extension exclusion
-#*.lscache
+#*.lscache.vs/
